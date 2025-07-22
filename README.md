@@ -17,8 +17,8 @@ As a curious problem-solver, I’m always learning — from accessibility standa
 
 ## 🌟 Pinned Project
 
-(./assets/app.png")
-<link url="https://face-tracker-app-pi.vercel.app/">
+(./assets/app.png)
+<link url="https://face-tracker-app-pi.vercel.app/"> Link </link>
 
 
 
