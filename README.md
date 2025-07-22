@@ -17,7 +17,8 @@ As a curious problem-solver, I’m always learning — from accessibility standa
 
 ## 🌟 Pinned Project
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palesamalatshi&repo=face-tracking-app&theme=radical)](https://github.com/palesamalatshi/face-tracking-app)
+<img src="./assets/page.png">
+https://face-tracker-app-pi.vercel.app/
 
 > 🎯 A visually immersive face tracking app built with a space-inspired aesthetic.  
 > Features face tracking overlay, localStorage support, and responsive UI.
