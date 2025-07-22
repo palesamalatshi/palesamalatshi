@@ -17,8 +17,10 @@ As a curious problem-solver, I’m always learning — from accessibility standa
 
 ## 🌟 Pinned Project
 
-<img src="./assets/page.png">
-https://face-tracker-app-pi.vercel.app/
+(./assets/app.png")
+<link url="https://face-tracker-app-pi.vercel.app/">
+
+
 
 > 🎯 A visually immersive face tracking app built with a space-inspired aesthetic.  
 > Features face tracking overlay, localStorage support, and responsive UI.
