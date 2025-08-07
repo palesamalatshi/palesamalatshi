@@ -16,7 +16,9 @@ I craft **responsive, accessible, and memorable** web experiences — blending *
 
 ---
 
-## 🚀 Featured Project – Mayothi Beauty Studio  
+## 🚀 Favorite Project – Mayothi Beauty Studio  
+<img width="1920" height="1080" alt="2025-08-08" src="https://github.com/user-attachments/assets/26ce2c5e-a833-4111-a12d-425f14f427fb" />
+
 [🌐 **Visit Website**](https://palesamalatshi.github.io/mayothi-beauty-studio/) | [💻 View GitHub Repo](https://github.com/palesamalatshi/mayothi-beauty-studio)  
 
 A fully functional, professional beauty studio website featuring:  
@@ -78,4 +80,5 @@ A fully functional, professional beauty studio website featuring:
 - Accessibility testing & best practices  
 
 ✨ *Made with intention, style, and a dream bigger than the stars.*  
+
 
