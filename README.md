@@ -1,4 +1,5 @@
 ![Banner](./assets/banner.png)
+
 “The sky is not the limit — it’s just a view.” 🌌
 
 # 👋🏽 Hi, I’m **Palesa Malatshi**  
@@ -77,3 +78,4 @@ A fully functional, professional beauty studio website featuring:
 - Accessibility testing & best practices  
 
 ✨ *Made with intention, style, and a dream bigger than the stars.*  
+
