@@ -148,8 +148,6 @@ Helping small businesses establish their online presence through responsive webs
 
 # 📊 GitHub Stats
 
-> **Replace `palesamalatshi` below with your GitHub username if it ever changes.**
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palesamalatshi&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palesamalatshi&layout=compact&theme=tokyonight&hide_border=true)
