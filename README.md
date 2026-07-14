@@ -174,10 +174,6 @@ React • JavaScript • Tailwind CSS • Vite • CSS
 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=palesamalatshi&theme=tokyonight&no-frame=true&margin-w=10)](...)
-
-![](https://komarev.com/ghpvc/?username=palesamalatshi&color=blueviolet)
-
 ---
 
 # 🤝 Let's Connect
