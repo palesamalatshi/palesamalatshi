@@ -176,25 +176,29 @@ React • JavaScript • Tailwind CSS • Vite • CSS
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-📧 **Email**
+<p align="center">
 
-palesamalatshi22@gmail.com
+<a href="mailto:palesamalatshi22@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 **LinkedIn**
+<a href="https://www.linkedin.com/in/palesa-malatshi-945a702b6/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-https://www.linkedin.com/in/palesa-malatshi-945a702b6/
+<a href="https://github.com/palesamalatshi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🌐 **Portfolio**
+<a href="https://palesamalatshi.github.io/palesa-ai-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-https://palesamalatshi.github.io/palesa-ai-portfolio/
+</p>
 
-💻 **GitHub**
-
-https://github.com/palesamalatshi
-
-📍 Kempton Park, Gauteng, South Africa
+📍 **Kempton Park, Gauteng, South Africa**
 
 ---
 
