@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Palesa+Malatshi+%F0%9F%91%8B%F0%9F%8F%BD;Front-End+Developer;CodeSpace+Software+Development+Graduate;JavaScript+%7C+React+Developer;Building+Clean+%26+Responsive+Web+Applications" alt="Typing SVG" />
+</p>
+
 ![Banner](./assets/banner.png)
 
 # 👋🏽 Hi, I'm Palesa Malatshi
@@ -6,62 +10,43 @@
 
 > *"The sky is not the limit — it's just a view."* 🌌
 
-Welcome to my GitHub!
+## 👋🏽 Welcome!
 
-I'm a **CodeSpace Software Development Graduate** and a passionate Front-End Developer based in Gauteng, South Africa. I enjoy building responsive, accessible, and user-focused web applications that solve real-world problems.
+I'm **Palesa Malatshi**, a passionate **Front-End Developer** based in Gauteng, South Africa.
 
-Alongside software development, I currently work as an **Administrative & Digital Support Assistant at Allied Builders Hardware**, where I help maintain digital systems, manage website content, and support day-to-day business operations. This experience has strengthened my technical skills, communication, and ability to build solutions that meet real business needs.
+I recently graduated from **CodeSpace Academy's Software Development Programme**, where I built a strong foundation in modern web development using **JavaScript**, **React**, **HTML**, and **CSS**.
 
-I'm currently seeking opportunities where I can continue growing as a developer while contributing to meaningful products and collaborative teams.
+Outside of coding, I currently work as an **Administrative & Digital Support Assistant at Allied Builders Hardware**, where I support digital operations, website management, and business systems.
 
----
+I enjoy creating digital experiences that are responsive, accessible, and solve real-world problems.
 
-# 🚀 Tech Stack
-
-### Languages
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![OpenCart](https://img.shields.io/badge/OpenCart-0D76BF?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+💜 I'm currently open to **Junior Front-End Developer**, **Web Developer**, and **Remote Software Development** opportunities.
 
 ---
+## 🚀 Tech Stack
 
-# 🌟 Featured Projects
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,vite,figma,npm"/>
+
+</p>
+---
 
 ## 🌸 Mayothi Beauty Studio
 
-![Mayothi Beauty Studio](./assets/mayothi-beauty-studio.png)
+![Mayothi](./assets/mayothi-beauty-studio.png)
 
-A professional website designed and developed for a real beauty business.
+A responsive website designed and developed for a real beauty business, featuring booking functionality, secure payments, and a modern mobile-first experience.
 
-### Features
+**Tech Stack**
 
-- Responsive & mobile-first design
-- Online booking experience
-- PayFast payment integration
-- Cross-browser compatibility
-- Business-focused user experience
+HTML • CSS • JavaScript
 
-🌐 **Live Website**
+🌐 Live Demo
 
 https://palesamalatshi.github.io/mayothi-beauty-studio/
 
-💻 **Repository**
+💻 Repository
 
 https://github.com/palesamalatshi/mayothi-beauty-studio
 
@@ -73,12 +58,17 @@ https://github.com/palesamalatshi/mayothi-beauty-studio
 
 A responsive React application that allows users to browse podcasts, explore episodes, and enjoy audio playback through a clean, modern interface.
 
-**Built with**
+**Tech Stack**
 
-- React
-- JavaScript
-- React Router
-- CSS
+React • CSS • JavaScript • React Router
+
+🌐 Live Demo
+
+https://djspp-rho.vercel.app/
+
+💻 Repository
+
+https://github.com/palesamalatshi/PODCAST-APP
 
 ---
 
@@ -88,71 +78,91 @@ A responsive React application that allows users to browse podcasts, explore epi
 
 A browser-based face tracking application that explores real-time computer vision using JavaScript and browser APIs.
 
-**Built with**
+**Tech Stack**
 
-- Next.js
-- JavaScript
-- Tailwind CSS
-- face-api.js
+Next.js • Tailwind CSS • JavaScript • face-api.js
+
+🌐 Live Demo
+
+https://face-tracker-app-pi.vercel.app/
+
+💻 Repository
+
+https://github.com/palesamalatshi/face-tracker-app
 
 ---
-
-## 🤖 AI Portfolio
+## 🤖 Palesa AI Portfolio
 
 ![Portfolio](./assets/portfolio.png)
 
-My personal portfolio website showcasing my projects, technical skills, and development journey, featuring an interactive AI assistant that helps visitors learn more about me.
+A modern, interactive portfolio website that showcases my projects, technical skills, and professional journey as a Front-End Developer. The portfolio features an AI-powered assistant that allows recruiters and visitors to learn more about my experience, projects, and expertise through a conversational interface.
 
-🌐 Portfolio
+Designed with a strong focus on responsive design, accessibility, performance, and user experience, this portfolio reflects both my technical skills and my passion for creating engaging digital products.
+
+**✨ Features**
+
+- AI-powered portfolio assistant
+- Interactive project showcase
+- Responsive & mobile-first design
+- Smooth animations and modern UI
+- Skills & experience timeline
+- Contact section with professional links
+
+**🛠 Tech Stack**
+
+React • JavaScript • Tailwind CSS • Vite • CSS
+
+🌐 Live Demo
 
 https://palesamalatshi.github.io/palesa-ai-portfolio/
 
+💻 Repository
+
+https://github.com/palesamalatshi/palesa-ai-portfolio
 ---
 
-# 💼 Experience
+## 💼 Experience
 
 ### Administrative & Digital Support Assistant
-
 **Allied Builders Hardware**
 
-- Website management using OpenCart
-- Product and content updates
-- Digital support
-- Customer communication
-- Business operations support
+Currently supporting website management, OpenCart administration, customer communication, and digital business operations.
+
+---
 
 ### Mobile Web Developer Intern (Remote)
-
 **AdollarClass**
 
-- Responsive web development
-- UI improvements
-- Remote collaboration
-- GitHub workflow
+Worked remotely on responsive web components, UI improvements, and collaborative development using GitHub.
+
+---
 
 ### Freelance Front-End Developer
 
-Helping small businesses establish their online presence through responsive websites and ongoing digital support.
+Developed websites for clients while providing ongoing maintenance, troubleshooting, and digital support.
 
 ---
 
-# 🌱 Currently Working On
+## 🌱 Current Focus
 
 - Building production-ready React applications
 - Writing cleaner, scalable JavaScript
-- Improving web accessibility (WCAG)
-- Creating better UI/UX experiences
-- Expanding my developer portfolio
-
+- Improving accessibility (WCAG)
+- Creating exceptional user experiences
+- Contributing to open-source projects
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palesamalatshi&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](...)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palesamalatshi&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](...)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=palesamalatshi&theme=tokyonight&hide_border=true)
+![Streak Stats](...)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=palesamalatshi&theme=tokyonight&no-frame=true&margin-w=10)](...)
+
+![](https://komarev.com/ghpvc/?username=palesamalatshi&color=blueviolet)
 
 ---
 
