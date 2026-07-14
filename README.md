@@ -10,9 +10,9 @@
 
 > *"The sky is not the limit — it's just a view."* 🌌
 
-## 👋🏽 Welcome!
+## 💜 About Me
 
-I'm **Palesa Malatshi**, a passionate **Front-End Developer** based in Gauteng, South Africa.
+A passionate **Front-End Developer** based in Gauteng, South Africa.
 
 I recently graduated from **CodeSpace Academy's Software Development Programme**, where I built a strong foundation in modern web development using **JavaScript**, **React**, **HTML**, and **CSS**.
 
@@ -42,14 +42,9 @@ A responsive website designed and developed for a real beauty business, featurin
 
 HTML • CSS • JavaScript
 
-🌐 Live Demo
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-9D4EDD?style=for-the-badge)](https://palesamalatshi.github.io/mayothi-beauty-studio)
 
-https://palesamalatshi.github.io/mayothi-beauty-studio/
-
-💻 Repository
-
-https://github.com/palesamalatshi/mayothi-beauty-studio
-
+[![💻 Repository](https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/palesamalatshi/mayothi-beauty-studio)
 ---
 
 ## 🎙 Podcast Web Application
@@ -62,13 +57,9 @@ A responsive React application that allows users to browse podcasts, explore epi
 
 React • CSS • JavaScript • React Router
 
-🌐 Live Demo
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://djspp-rho.vercel.app/)
 
-https://djspp-rho.vercel.app/
-
-💻 Repository
-
-https://github.com/palesamalatshi/PODCAST-APP
+[![💻 Repository](https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/palesamalatshi/PODCAST-APP)
 
 ---
 
@@ -82,13 +73,9 @@ A browser-based face tracking application that explores real-time computer visio
 
 Next.js • Tailwind CSS • JavaScript • face-api.js
 
-🌐 Live Demo
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://face-tracker-app-pi.vercel.app/)
 
-https://face-tracker-app-pi.vercel.app/
-
-💻 Repository
-
-https://github.com/palesamalatshi/face-tracker-app
+[![💻 Repository](https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/palesamalatshi/face-tracker-app)
 
 ---
 ## 🤖 Palesa AI Portfolio
@@ -112,34 +99,41 @@ Designed with a strong focus on responsive design, accessibility, performance, a
 
 React • JavaScript • Tailwind CSS • Vite • CSS
 
-🌐 Live Demo
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Portfolio-9D4EDD?style=for-the-badge)](https://palesamalatshi.github.io/palesa-ai-portfolio/)
 
-https://palesamalatshi.github.io/palesa-ai-portfolio/
-
-💻 Repository
-
-https://github.com/palesamalatshi/palesa-ai-portfolio
+[![💻 Repository](https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/palesamalatshi/palesa-ai-portfolio)
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### Administrative & Digital Support Assistant
-**Allied Builders Hardware**
+### 🏢 Administrative & Digital Support Assistant
+**Allied Builders Hardware**  
+*October 2025 – Present*
 
-Currently supporting website management, OpenCart administration, customer communication, and digital business operations.
-
----
-
-### Mobile Web Developer Intern (Remote)
-**AdollarClass**
-
-Worked remotely on responsive web components, UI improvements, and collaborative development using GitHub.
+- Maintain and update the company website using OpenCart CMS
+- Support digital operations and business systems
+- Manage website content and product updates
+- Assist with customer communication and administrative workflows
 
 ---
 
-### Freelance Front-End Developer
+### 💻 Mobile Web Developer Intern (Remote)
+**AdollarClass**  
+*August 2025 – April 2026*
 
-Developed websites for clients while providing ongoing maintenance, troubleshooting, and digital support.
+- Built responsive web components
+- Collaborated remotely using GitHub
+- Improved user interfaces and layouts
+- Worked within a distributed development team
+
+---
+
+### 🚀 Freelance Front-End Developer
+*2025 – Present*
+
+- Developed responsive websites for small businesses
+- Performed maintenance and troubleshooting
+- Created modern, user-friendly web experiences
 
 ---
 
@@ -152,13 +146,33 @@ Developed websites for clients while providing ongoing maintenance, troubleshoot
 - Contributing to open-source projects
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](...)
+<p align="center">
 
-![Top Languages](...)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=palesamalatshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-![Streak Stats](...)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palesamalatshi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=palesamalatshi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=palesamalatshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=palesamalatshi&label=Profile%20Views&color=9D4EDD&style=for-the-badge"/>
+
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=palesamalatshi&theme=tokyonight&no-frame=true&margin-w=10)](...)
 
